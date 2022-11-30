@@ -1,0 +1,11 @@
+name: shiny_test
+title:
+username:
+account: sweetsugar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7764912
+bundleId: 6569374
+url: https://sweetsugar.shinyapps.io/shiny_test/
+when: 1669757801.92918
+lastSyncTime: 1669757801.9292

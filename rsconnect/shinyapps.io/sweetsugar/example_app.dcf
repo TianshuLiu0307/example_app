@@ -1,0 +1,11 @@
+name: example_app
+title:
+username:
+account: sweetsugar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7768604
+bundleId: 6570745
+url: https://sweetsugar.shinyapps.io/example_app/
+when: 1669781276.5856
+lastSyncTime: 1669781276.58561
